@@ -8,8 +8,6 @@ class Letter {
 }
 
 
-const A = new Letter(1, 'A', 'yellow');
 
-console.log(JSON.stringify(A));
 
 module.exports = Letter;
